@@ -1,0 +1,16 @@
+{
+  "name": "mesagerie",
+  "version": "1.0.0",
+  "description": "api messagerie instantané",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mosouké",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.18.3",
+    "socket.io": "^4.7.4"
+  }
+}
